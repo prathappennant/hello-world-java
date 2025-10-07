@@ -17,7 +17,9 @@
 	<properties>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
-	</properties>
+		<sonar.host.url>http://3.110.193.69:9000</sonar.host.url>
+		<sonar.token>sqa_8183464158d03e3f2d7d8713d0d3a87cfbce7742</sonar.token>
+ 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
